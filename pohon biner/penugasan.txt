@@ -1,0 +1,16 @@
+Penugasan
+
+- tree
+- maketree
+
+- alokasi dan dealokasi
+
+- isemptytree , isonetree
+- isunerright dan 
+- isunerleft ,  
+- isbiner
+- printpreorder
+- printpostorder
+- printinorder
+
+dealinenya minggu, 4 desember 2022

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1661404405 source:/Users/attaf-riski/Documents/Undip/Sem.3/StrukturData/praktik/jam/jam.c
+
+1661404311 source:/Users/attaf-riski/Documents/Undip/Sem.3/StrukturData/praktik/jam/main.c
+	<stdio.h>
+	<stdlib.h>
+

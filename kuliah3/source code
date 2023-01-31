@@ -1,0 +1,15 @@
+/*
+Program: main.c
+Pembuat: Attaf Riski Putra Ramadhan
+Deksripsi: driver tabel.c
+Tanggal: 5 Sept 2022
+*/
+
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World");
+
+    return 0;
+}

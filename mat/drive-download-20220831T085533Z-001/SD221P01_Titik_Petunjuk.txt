@@ -1,0 +1,33 @@
+PRAKTIKUM STRUKTUR DATA SEMESTER GASAL 2022/2023
+Pertemuan 01 (29 Agustus - 4 September 2022)
+IDE dan MODUL TITIK
+
+PETUNJUK UNTUK PRAKTIKAN :
+1. Kerjakan sendiri tugas praktikum untuk berlatih. Kompetensi memprogram Anda dipertanggungjawabkan di dunia kerja nanti.
+2. Bila ada tugas kelompok, kerjakan dan tuliskan porsi Anda.
+3. Tuliskan deskripsi program/modul, nama/NIM pembuat, dan tanggal pembuatan di setiap file
+4. Jadwal praktikum terbatas 2 jam, Anda harus menambah lagi praktikum mandiri minimal 120 menit.
+5. Konsultasikan dengan asisten bila menemui kendala.
+
+AGENDA :
+1. Asisten mendemonstrasikan cara:
+   a. pemasangan (install) IDE bahasa C.
+   b. membuat projek program C standar (ANSI).
+   c. membuat folder kerja dengan format khusus.
+   d. membuat file header "*.h".
+   e. memprogram pintar di file body "*.c" 
+   f. menyimpan dan mengkompilasi modul.
+   g. membuat file driver "m*.c" dan pembangunan projek.
+   h. eksekusi dan penirkutuan program.
+2. Praktikan mengunduh file tugas tentang TITIK dari http://tiny.cc/sd22p
+3. Praktikan mengerjakan tugas praktikum.
+4. Asisten mendampingi praktikan yang terkendala.
+5. Praktikan mengumpulkan laporan penyelesaian tugas.
+6. Asisten melaporkan kendala dan perkembangan praktikan.
+
+DESKRIPSI TUGAS P01 :
+1. Buatlah projek dan folder kerja hari ini dengan format : <nim>_SD01. contoh: 24060119110023_SD01.
+2. Simpanlah file titik.h, titik.c, dan maintitik ke dalam folder kerja.
+3. Pelajari file header titik.h, kemudian buatlah realisasi body fungsi/prosedur dalam file titik.c satu demi satu.
+4. Setiap selesai merealisasikan SEBUAH fungsi/prosedur, buatlah aplikasi dalam file maintitik untuk menguji body yang telah dibuat.
+5. Pada akhir sesi praktikum, laporkan hasil praktikum pada link berikut http://tiny.cc/sd22laporan
